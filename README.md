@@ -1,2 +1,4 @@
-# Prueba
-Repositorio de prueba
+- Juego plataformero
+- Exploracion de mazmorras
+- Creado con unity y arte con krita
+- Para publico casual
