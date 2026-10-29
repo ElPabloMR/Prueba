@@ -1,5 +1,5 @@
 ## 🔥Me llamo Pablo Martín Ruiz y tengo 24 años
-## 📖Estudios: Desarrollador de aplicaciones multiplataforma
+## 📖Estudios: Desarrollador de aplicaciones multiplataforma y Animador 3d, juegos y entornos interactivos
 
 
 
